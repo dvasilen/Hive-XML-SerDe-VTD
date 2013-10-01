@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
 */
-package com.ximpleware.hive.serde2.xml.processor.vtd;
+package org.apache.hadoop.hive.serde2.xml.vtd;
 
 import com.ibm.spss.hive.serde2.xml.processor.XmlQuery;
 import com.ximpleware.XPathParseException;
