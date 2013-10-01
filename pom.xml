@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
 	
     <name>hive-xml-serde-vtd</name>
-    <url>https://github.com/dvasilen/Hive-XML-SerDe</url>
+    <url>https://github.com/dvasilen/Hive-XML-SerDe-VTD</url>
 	
 	<description>XML SerDe VTD Processor for Apache Hive</description>
 
