@@ -126,12 +126,6 @@
 	    <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
 	</repository>
 	
-	<repository>
-	    <id>Sonatype</id>
-	    <name>Sonatype Maven Repo</name>
-	    <url>https://oss.sonatype.org/content/repositories/releases/</url>
-	</repository>
-	
     </repositories>
 
     
