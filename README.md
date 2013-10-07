@@ -20,7 +20,7 @@ TBLPROPERTIES (
 "xmlinput.end"="&lt;end_tag&gt;"  
 );   
 
-See https://github.com/dvasilen/Hive-XML-SerDe for futher details.
+See https://github.com/dvasilen/Hive-XML-SerDe for further details.
 
 # Important notice : License
 
