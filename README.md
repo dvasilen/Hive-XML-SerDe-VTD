@@ -6,7 +6,7 @@ Use the following DDL to create Apache Hive table, note the "xml.processor.class
 CREATE [EXTERNAL] TABLE &lt;table_name&gt; (&lt;column_specifications&gt;)   
 ROW FORMAT SERDE "com.ibm.spss.hive.serde2.xml.XmlSerDe"   
 WITH SERDEPROPERTIES (   
-"xml.processor.class"=" com.ximpleware.hive.serde2.xml.vtd.XmlProcessor",   
+"xml.processor.class"="com.ximpleware.hive.serde2.xml.vtd.XmlProcessor",   
 "column.xpath.&lt;column_name&gt;"="&lt;xpath_query&gt;",   
 ... ["xml.map.specification.&lt;element_name&gt;"="&lt;map_specification&gt;"   
 ...   
