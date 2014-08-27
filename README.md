@@ -22,6 +22,8 @@ TBLPROPERTIES (
 
 See https://github.com/dvasilen/Hive-XML-SerDe for further details.
 
+# Dependency:  vtd-xml-2.11.0.jar
+
 # Important notice : License
 
 VTD-XML use a dual GPLv2/commercial license.
