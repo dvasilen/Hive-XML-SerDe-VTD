@@ -23,6 +23,7 @@ TBLPROPERTIES (
 See https://github.com/dvasilen/Hive-XML-SerDe for further details.
 
 # Dependency:  vtd-xml-2.11.0.jar
+http://search.maven.org/#search%7Cga%7C1%7Cvtd-xml
 
 # Important notice : License
 
