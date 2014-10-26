@@ -1,7 +1,10 @@
 VTD Processor for Apache Hive XML SerDe
 ==============
 
-Use the following DDL to create Apache Hive table, note the "xml.processor.class", 
+Using VTD-XML based processor instead of default JDK DOM XPath processor can provide significant performance  gains.
+See http://vtd-xml.sourceforge.net/
+
+Use the following DDL to create Apache Hive table, note the "xml.processor.class" for VTD-XML processor, 
 
 CREATE [EXTERNAL] TABLE &lt;table_name&gt; (&lt;column_specifications&gt;)   
 ROW FORMAT SERDE "com.ibm.spss.hive.serde2.xml.XmlSerDe"   
